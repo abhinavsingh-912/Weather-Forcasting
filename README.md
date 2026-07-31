@@ -127,26 +127,6 @@ Search saved in Local Storage
 
 ---
 
-## Screenshots
-
-Add screenshots inside the **screenshots** folder.
-
-Example:
-
-```
-screenshots/
-
-home.png
-
-search.png
-
-forecast.png
-
-mobile.png
-```
-
----
-
 ## Learning Outcomes
 
 - API Integration
@@ -180,7 +160,3 @@ B.Tech CSIT
 GL Bajaj Institute of Technology and Management
 
 ---
-
-## License
-
-This project is developed for educational purposes as part of **The Developers Arena Internship Program**.
